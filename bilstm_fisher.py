@@ -206,14 +206,3 @@ if __name__ == "__main__":
 
 
 
-
-
-#------------------------------------------------------------------
-# step5: Training is good, but having visual insight is even better
-#------------------------------------------------------------------
-# The code is in the .ipynb
-
-#------------------------------------------------------------------
-# step6: And finally, the multi-class confusion matrix and metrics!
-#------------------------------------------------------------------
-# The code is in the .ipynb
